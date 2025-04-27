@@ -41,7 +41,7 @@ Malicious URL demo:
       ```
 2. **Set API Key** (choose one):
    - Hardcoded:
-   Edit DREDD.py and replace os.getenv("VT_API_KEY") in the HEADERS section with your API key, then you're good to go:
+   Edit DREDD.py and replace os.getenv("VT_API_KEY") in the HEADERS section with your API key, then youre good to go:
 
       ```python
       HEADERS = {
