@@ -52,7 +52,7 @@ I would recommend running it natively as I'm still troubleshooting some Docker s
         export VT_API_KEY=your_api_key
      ```
      Powershell:
-      ```powershell
+     ```powershell
       $env:VT_API_KEY = "your_api_key"
       ```
 ### Docker Usage
