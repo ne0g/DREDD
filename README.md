@@ -107,3 +107,9 @@ Flags explained above, for conciseness just flags and usage here.
    ```bash
    docker run --rm --env-file .env -v /path/to/sample.exe:/app/sample.exe -v /path/to/output:/app dredd --file sample.exe --offline
    ```
+## Notes
+
+- VirusTotal free API has a rate limit in place:
+   - 500/day or 4/minute
+- If hard-coding the API, don't forget to delete if you decide to share the script
+- Work in progress, open to advice
