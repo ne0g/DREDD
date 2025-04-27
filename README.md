@@ -14,6 +14,8 @@ I would recommend running it natively as I'm still troubleshooting some Docker s
 - **Static files**: Outputs results to console cleanly, and files (`<file>_strings.txt`, `Hash_Results_JSON/<hash>_JSON.txt`).
 - **Offline mode**: Offline mode for file analysis without VirusTotal.
 
+Malicious URL demo:
+
 ![URL demo](https://github.com/user-attachments/assets/5c7852ce-f5e5-4eb9-ab6f-35a6760375a7)
 
 ## Prerequisites
