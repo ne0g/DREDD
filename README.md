@@ -46,10 +46,15 @@ I would recommend running it natively as I'm still troubleshooting some Docker s
        "user-agent": "DREDD/1.0"
       }
       ```
-   - Environment Variable:
+   - Environment Variable:<br>
+     Linux:
      ```bash
         export VT_API_KEY=your_api_key
      ```
+     Powershell:
+      ```powershell
+      $env:VT_API_KEY = "your_api_key"
+      ```
 ### Docker Usage
 
 1. **Install Docker**
