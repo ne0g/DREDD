@@ -118,3 +118,6 @@ Flags explained above, for conciseness just flags and usage here.
    - 500/day or 4/minute
 - If hard-coding the API, don't forget to delete if you decide to share the script
 - Work in progress, open to advice
+
+
+**Thanks to the awesome art creators for the Judge Dredd image, the original file can be found here - https://2000ad.com/wp-content/uploads/2021/06/2000AD-wallpaper-02.jpg**
